@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
+	<version>v1.0.4</version>
+	<url>http://209.41.164.34/airtraining/Chemistry101/Chemistry101.air</url>
+	<description>
+		<text xml:lang="en">The 'Chemistry 101' is a simple example of some Flex techniques ported to an AIR application. Feel free to use it as a study-tool to test your knowledge of the chemical elements.</text>
+	</description>
+</update>
